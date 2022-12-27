@@ -1,0 +1,20 @@
+.App {
+  margin: auto;
+  width: 50%;
+}
+
+.guess-box {
+  margin: auto;
+  width: 240px;
+  height: 100px
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.options {
+  padding: 8px;
+  margin-left: 10px;;
+}
